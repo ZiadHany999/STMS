@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoCare — Smart Automotive Service & E-Commerce App
 ### Graduation Project · Flutter · Riverpod · Stripe
 
@@ -173,3 +174,7 @@ All state is managed with **flutter_riverpod**:
 
 Youssef Ahmed — Computer Science Graduation Project, 2025  
 AutoCare Egypt · Flutter × Riverpod × Stripe
+=======
+# STMS
+STMS
+>>>>>>> 4663bac69e0d28d3677cd121bdd61d7d1ddf19fc
